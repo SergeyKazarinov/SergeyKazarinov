@@ -24,9 +24,9 @@
 [![](https://visitcount.itsvg.in/api?id=SergeyKazarinov&icon=1&color=1)](https://visitcount.itsvg.in)
 
 # Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=Lubimovka)](https://github.com/SergeyKazarinov/Lubimovka)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=mesto)](https://github.com/SergeyKazarinov/mesto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=how-to-learn)](https://github.com/SergeyKazarinov/how-to-learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=Lubimovka&theme=dark)](https://github.com/SergeyKazarinov/Lubimovka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=mesto&theme=dark)](https://github.com/SergeyKazarinov/mesto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=how-to-learn&theme=dark)](https://github.com/SergeyKazarinov/how-to-learn)
 
 <!--
 **SergeyKazarinov/SergeyKazarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
