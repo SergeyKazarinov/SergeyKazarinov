@@ -25,8 +25,8 @@
 
 ## 🏆 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=Lubimovka&theme=dark)](https://github.com/SergeyKazarinov/Lubimovka)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=mesto&theme=dark)](https://github.com/SergeyKazarinov/mesto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=how-to-learn&theme=dark)](https://github.com/SergeyKazarinov/how-to-learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=mesto-react&theme=dark)](https://github.com/SergeyKazarinov/mesto-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=russian-travel&theme=dark)](https://github.com/SergeyKazarinov/russian-travel)
 
 <!--
 **SergeyKazarinov/SergeyKazarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
