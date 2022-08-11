@@ -21,7 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKazarinov&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SergeyKazarinov)  
 ---
-[![](https://visitcount.itsvg.in/api?id=SergeyKazarinov&icon=1&color=1)](https://visitcount.itsvg.in)
 
 ## 🏆 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKazarinov&repo=Lubimovka&theme=dark)](https://github.com/SergeyKazarinov/Lubimovka)
