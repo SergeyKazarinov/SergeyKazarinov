@@ -45,8 +45,19 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SergeyKazarinov&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SergeyKazarinov&theme=dark&hide_border=false)<br/>
+
+<table>
+  <tr>
+    <td>
+      ![](https://github-readme-stats.vercel.app/api?username=SergeyKazarinov&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+    </td>
+    <td>
+      ![](https://github-readme-streak-stats.herokuapp.com/?user=SergeyKazarinov&theme=dark&hide_border=false)<br/>
+    </td>
+  </tr>
+</table>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKazarinov&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
