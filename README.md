@@ -11,7 +11,7 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sergey-kazarinov-b621ba250/) 
 
 
-## 🏗️ Skills
+## 🏗️ Skills:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -47,14 +47,14 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
-## My project
+## My projects:
 
 | Messenger | Calculator     | Stellar-burger                       |
 | :-------- | :------- | :-------------------------------- |
 |[<img  src="https://github.com/SergeyKazarinov/messenger/blob/main/public/images/Screen.jpg" />](https://github.com/SergeyKazarinov/messenger)| [<img  src="https://github.com/SergeyKazarinov/calculator/blob/main/src/images/preview.jpg" />](https://github.com/SergeyKazarinov/calculator)| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/stellar-burger.jpg" />](https://github.com/SergeyKazarinov/stellar-burger) |
 | Messenger is a real-time messaging application with user authorization via Google or GitHub| The project is a drag-and-drop constructor with which you can build a calculator | The Stella-Burger project is a web application for ordering burgers.  The order feed is updated in real time thanks to a WebSocket connection.
 
-#### Other projects with despritions  
+#### Other projects with description (in repository):  
 [Portfolio](https://kazarinov.nomoredomains.club/)  
 [Shop](https://github.com/SergeyKazarinov/unicorn-test)  
 [User-post](https://github.com/SergeyKazarinov/user-posts)  
