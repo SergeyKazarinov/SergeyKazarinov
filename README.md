@@ -49,18 +49,23 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 
 ## My projects:
 
-| Messenger | Calculator     | Stellar-burger                       |
+| Advanced Fronted | Shop | Messenger                      |
 | :-------- | :------- | :-------------------------------- |
-|[<img  src="https://github.com/SergeyKazarinov/messenger/blob/main/public/images/Screen.jpg" />](https://github.com/SergeyKazarinov/messenger)| [<img  src="https://github.com/SergeyKazarinov/calculator/blob/main/src/images/preview.jpg" />](https://github.com/SergeyKazarinov/calculator)| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/stellar-burger.jpg" />](https://github.com/SergeyKazarinov/stellar-burger) |
-| Messenger is a real-time messaging application with user authorization via Google or GitHub| The project is a drag-and-drop constructor with which you can build a calculator | The Stella-Burger project is a web application for ordering burgers.  The order feed is updated in real time thanks to a WebSocket connection.
+|[Link to Project](https://github.com/SergeyKazarinov/advanced-frontend)| [<img  src="https://github.com/SergeyKazarinov/Shop/blob/main/Shop.gif" />](https://github.com/SergeyKazarinov/Shop)| [<img  src="https://github.com/SergeyKazarinov/messenger/blob/main/public/images/Screen.jpg" />](https://github.com/SergeyKazarinov/messenger)|
+| Application under development | Mini application for demonstrating e-commerce application development skills. | Messenger is a real-time messaging application with user authorization via Google or GitHub
+
+| Portfolio  | Calculator     | Stellar-burger                       |
+| :-------- | :------- | :-------------------------------- |
+| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/portfolio.jpg" />](https://github.com/SergeyKazarinov/movies-explorer-frontend/tree/main) | [<img  src="https://github.com/SergeyKazarinov/calculator/blob/main/src/images/preview.jpg" />](https://github.com/SergeyKazarinov/calculator)| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/stellar-burger.jpg" />](https://github.com/SergeyKazarinov/stellar-burger) |
+|This is a Fullstack application, an online search service based on "Beatfilm‑movies" API data with the ability to save favorites.| The project is a drag-and-drop constructor with which you can build a calculator | The Stella-Burger project is a web application for ordering burgers.  The order feed is updated in real time thanks to a WebSocket connection.
 
 #### Other projects with description (in repository):  
-[Portfolio](https://kazarinov.nomoredomains.club/)  
-[Shop](https://github.com/SergeyKazarinov/unicorn-test)  
-[User-post](https://github.com/SergeyKazarinov/user-posts)  
-[Armaggedon](https://github.com/SergeyKazarinov/armaggedon-next-js)  
-[Voshod](https://github.com/SergeyKazarinov/voshod--websocket-)  
-[Mesto](https://github.com/SergeyKazarinov/react-mesto-api-full)  
+ - [User-post](https://github.com/SergeyKazarinov/user-posts) - Service for viewing articles and comments on the article. Project using React-Bootstrap and Redux-saga.  
+- [Armaggedon](https://github.com/SergeyKazarinov/armaggedon-next-js) - An online service for monitoring and destroying dangerous asteroids based on NASA API data.
+- [Voshod](https://github.com/SergeyKazarinov/voshod--websocket-) - 
+Implementing skills in WebSocket using custom hooks
+- [Mesto](https://github.com/SergeyKazarinov/react-mesto-api-full) - 
+This is a simplified analogue of the social network "Instagram".  
 
 
 ## 📊 GitHub Stats:
