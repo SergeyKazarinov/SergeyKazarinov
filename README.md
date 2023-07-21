@@ -49,14 +49,14 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 
 ## My projects:
 
-| Advanced Fronted | Shop | Messenger                      |
-| :-------- | :------- | :-------------------------------- |
+| [Advanced Fronted](https://github.com/SergeyKazarinov/advanced-frontend) | [Shop](https://github.com/SergeyKazarinov/Shop) | [Messenger](https://github.com/SergeyKazarinov/messenger) |
+| :-------------------------------- | :-------------------------------- | :-------------------------------- |
 |[Link to Project](https://github.com/SergeyKazarinov/advanced-frontend)| [<img  src="https://github.com/SergeyKazarinov/Shop/blob/main/Shop.gif" />](https://github.com/SergeyKazarinov/Shop)| [<img  src="https://github.com/SergeyKazarinov/messenger/blob/main/public/images/Screen.jpg" />](https://github.com/SergeyKazarinov/messenger)|
 | Application under development | Mini application for demonstrating e-commerce application development skills. | Messenger is a real-time messaging application with user authorization via Google or GitHub
 
-| Portfolio  | Calculator     | Stellar-burger                       |
-| :-------- | :------- | :-------------------------------- |
-| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/portfolio.jpg" />](https://github.com/SergeyKazarinov/movies-explorer-frontend/tree/main) | [<img  src="https://github.com/SergeyKazarinov/calculator/blob/main/src/images/preview.jpg" />](https://github.com/SergeyKazarinov/calculator)| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/stellar-burger.jpg" />](https://github.com/SergeyKazarinov/stellar-burger) |
+| [Portfolio](https://github.com/SergeyKazarinov/movies-explorer-frontend) | [Calculator](https://github.com/SergeyKazarinov/calculator)     | [Stellar-burger](https://github.com/SergeyKazarinov/stellar-burger)  |
+| :-------------------------------- | :-------------------------------- | :-------------------------------- |
+| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/portfolio.jpg" />](https://github.com/SergeyKazarinov/movies-explorer-frontend) | [<img  src="https://github.com/SergeyKazarinov/calculator/blob/main/src/images/preview.jpg" />](https://github.com/SergeyKazarinov/calculator)| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/stellar-burger.jpg" />](https://github.com/SergeyKazarinov/stellar-burger) |
 |This is a Fullstack application, an online search service based on "Beatfilm‑movies" API data with the ability to save favorites.| The project is a drag-and-drop constructor with which you can build a calculator | The Stella-Burger project is a web application for ordering burgers.  The order feed is updated in real time thanks to a WebSocket connection.
 
 #### Other projects with description (in repository):  
