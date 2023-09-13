@@ -54,8 +54,8 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 
 | [Advanced Fronted](https://github.com/SergeyKazarinov/advanced-frontend) | [Shop](https://github.com/SergeyKazarinov/Shop) | [Messenger](https://github.com/SergeyKazarinov/messenger) |
 | :-------------------------------- | :-------------------------------- | :-------------------------------- |
-|[Link to Project](https://github.com/SergeyKazarinov/advanced-frontend)| [<img  src="https://github.com/SergeyKazarinov/Shop/blob/main/Shop.gif" />](https://github.com/SergeyKazarinov/Shop)| [<img  src="https://github.com/SergeyKazarinov/messenger/blob/main/public/images/Screen.jpg" />](https://github.com/SergeyKazarinov/messenger)|
-| Application under development | Mini application for demonstrating e-commerce application development skills. | Messenger is a real-time messaging application with user authorization via Google or GitHub
+|[<img  src="https://github.com/SergeyKazarinov/advanced-frontend/blob/main/src/shared/assets/advanced-frontend.jpg" />](https://github.com/SergeyKazarinov/advanced-frontend)| [<img  src="https://github.com/SergeyKazarinov/Shop/blob/main/Shop.gif" />](https://github.com/SergeyKazarinov/Shop)| [<img  src="https://github.com/SergeyKazarinov/messenger/blob/main/public/images/Screen.jpg" />](https://github.com/SergeyKazarinov/messenger)|
+| The application has many technologies and development tools, more details in the README | Mini application for demonstrating e-commerce application development skills. | Messenger is a real-time messaging application with user authorization via Google or GitHub
 
 | [Portfolio](https://github.com/SergeyKazarinov/movies-explorer-frontend) | [Calculator](https://github.com/SergeyKazarinov/calculator)     | [Stellar-burger](https://github.com/SergeyKazarinov/stellar-burger)  |
 | :-------------------------------- | :-------------------------------- | :-------------------------------- |
