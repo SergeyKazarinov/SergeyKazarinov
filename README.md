@@ -23,7 +23,7 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://effector.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/effector/effector/master/website/client/static/img/comet.svg" alt="effector" width="40" height="40"/> </a>
+<a href="https://effector.dev" target="_blank" rel="noreferrer"> <img src="https://v21.effector.dev/ru/img/comet.png" alt="effector" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" style="background:white;" width="40" height="40"/> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -49,18 +49,25 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 
 ## My projects:
 
-| Messenger | Calculator     | Stellar-burger                       |
+| Advanced Fronted | Shop | Messenger                      |
 | :-------- | :------- | :-------------------------------- |
-|[<img  src="https://github.com/SergeyKazarinov/messenger/blob/main/public/images/Screen.jpg" />](https://github.com/SergeyKazarinov/messenger)| [<img  src="https://github.com/SergeyKazarinov/calculator/blob/main/src/images/preview.jpg" />](https://github.com/SergeyKazarinov/calculator)| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/stellar-burger.jpg" />](https://github.com/SergeyKazarinov/stellar-burger) |
-| Messenger is a real-time messaging application with user authorization via Google or GitHub| The project is a drag-and-drop constructor with which you can build a calculator | The Stella-Burger project is a web application for ordering burgers.  The order feed is updated in real time thanks to a WebSocket connection.
+|[Link to Project](https://github.com/SergeyKazarinov/advanced-frontend)| [<img  src="https://github.com/SergeyKazarinov/Shop/blob/main/Shop.gif" />](https://github.com/SergeyKazarinov/Shop)| [<img  src="https://github.com/SergeyKazarinov/messenger/blob/main/public/images/Screen.jpg" />](https://github.com/SergeyKazarinov/messenger)|
+| Application under development | Mini application for demonstrating e-commerce application development skills. | Messenger is a real-time messaging application with user authorization via Google or GitHub
+
+| Custom-Excel  | Calculator     | Stellar-burger                       |
+| :-------- | :------- | :-------------------------------- |
+| [<img  src="https://github.com/SergeyKazarinov/custom-excel/blob/main/public/assets/Custom-Excel.gif" />](https://github.com/SergeyKazarinov/custom-excel) | [<img  src="https://github.com/SergeyKazarinov/calculator/blob/main/src/images/preview.jpg" />](https://github.com/SergeyKazarinov/calculator)| [<img  src="https://github.com/SergeyKazarinov/movies-explorer-frontend/blob/main/src/images/stellar-burger.jpg" />](https://github.com/SergeyKazarinov/stellar-burger) |
+|
+An analogue of a Google Excel table, written in Vanilla JS with the creation of a framework and an analogue of Redux and JQuery| The project is a drag-and-drop constructor with which you can build a calculator | The Stella-Burger project is a web application for ordering burgers.  The order feed is updated in real time thanks to a WebSocket connection.
 
 #### Other projects with description (in repository):  
-[Portfolio](https://kazarinov.nomoredomains.club/)  
-[Shop](https://github.com/SergeyKazarinov/unicorn-test)  
-[User-post](https://github.com/SergeyKazarinov/user-posts)  
-[Armaggedon](https://github.com/SergeyKazarinov/armaggedon-next-js)  
-[Voshod](https://github.com/SergeyKazarinov/voshod--websocket-)  
-[Mesto](https://github.com/SergeyKazarinov/react-mesto-api-full)  
+- [Portfolio](https://github.com/SergeyKazarinov/movies-explorer-frontend) - This is a Fullstack application, an online search service based on "Beatfilm‑movies" API data with the ability to save favorites.
+- [User-post](https://github.com/SergeyKazarinov/user-posts) - Service for viewing articles and comments on the article. Project using React-Bootstrap and Redux-saga.  
+- [Armaggedon](https://github.com/SergeyKazarinov/armaggedon-next-js) - An online service for monitoring and destroying dangerous asteroids based on NASA API data.
+- [Voshod](https://github.com/SergeyKazarinov/voshod--websocket-) - 
+Implementing skills in WebSocket using custom hooks
+- [Mesto](https://github.com/SergeyKazarinov/react-mesto-api-full) - 
+This is a simplified analogue of the social network "Instagram".  
 
 
 ## 📊 GitHub Stats:
