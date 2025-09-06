@@ -64,7 +64,7 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 
 | [Simple Skeleton](https://github.com/ice-house-web/simple-skeleton) | [Advanced Fronted](https://github.com/SergeyKazarinov/advanced-frontend) | [Shop](https://github.com/SergeyKazarinov/Shop) |
 | :-------------------------------- | :-------------------------------- | :-------------------------------- |
-| <img width="1269" height="853" alt="image" src="https://github.com/user-attachments/assets/1a68f2ac-d1cb-407c-9b5f-8a2c95fe09ac" /> |[<img  src="https://github.com/SergeyKazarinov/advanced-frontend/blob/main/src/shared/assets/advanced-frontend.jpg" />](https://github.com/SergeyKazarinov/advanced-frontend)| [<img  src="https://github.com/SergeyKazarinov/Shop/blob/main/Shop.gif" />](https://github.com/SergeyKazarinov/Shop)
+| [<img width="1269" height="853" alt="image" src="https://github.com/user-attachments/assets/1a68f2ac-d1cb-407c-9b5f-8a2c95fe09ac" />](https://simple-skeleton.kazarinov092.ru/) |[<img  src="https://github.com/SergeyKazarinov/advanced-frontend/blob/main/src/shared/assets/advanced-frontend.jpg" />](https://github.com/SergeyKazarinov/advanced-frontend)| [<img  src="https://github.com/SergeyKazarinov/Shop/blob/main/Shop.gif" />](https://github.com/SergeyKazarinov/Shop)
 | Open Source npm-package. A lightweight and flexible library for creating skeleton loaders | The application has many technologies and development tools, more details in the README | Mini application for demonstrating e-commerce application development skills.
 
 | [Messenger](https://github.com/SergeyKazarinov/messenger) | [Custom Excel](https://github.com/SergeyKazarinov/custom-excel) | [Calculator](https://github.com/SergeyKazarinov/calculator)     |
