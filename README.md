@@ -74,11 +74,10 @@ If you have interesting ideas and suggestions, I will be happy to hear them. ⬇
 
 #### Other projects with description (in repository):  
 - [Stellar-burger](https://github.com/SergeyKazarinov/stellar-burger) - The Stella-Burger project is a web application for ordering burgers.  The order feed is updated in real time thanks to a WebSocket connection.
-- [Portfolio](https://github.com/SergeyKazarinov/movies-explorer-frontend) - This is a Fullstack application, an online search service based on "Beatfilm‑movies" API data with the ability to save favorites.
 - [User-post](https://github.com/SergeyKazarinov/user-posts) - Service for viewing articles and comments on the article. Project using React-Bootstrap and Redux-saga.  
 - [Armaggedon](https://github.com/SergeyKazarinov/armaggedon-next-js) - An online service for monitoring and destroying dangerous asteroids based on NASA API data.
 - [Voshod](https://github.com/SergeyKazarinov/voshod--websocket-) - Implementing skills in WebSocket using custom hooks
-- [Mesto](https://github.com/SergeyKazarinov/react-mesto-api-full) - This is a simplified analogue of the social network "Instagram".  
+
 
 
 ## 📊 GitHub Stats:
